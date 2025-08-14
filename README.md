@@ -1,20 +1,5 @@
 ![Tri Wahyudi](img/github-header.png)
 
-<!--
-**trWhyudi/trWhyudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Hello+%F0%9F%91%8B+I'm+Tri+Wahyudi;Tech+Enthusiast+%7C+Web+Developer++;Open+to+Collaborate+%F0%9F%92%AC)
 
 <div align="center">
@@ -23,7 +8,7 @@ Here are some ideas to get you started:
   
   <div style="display: inline_block">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
