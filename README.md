@@ -32,7 +32,7 @@
   <a href="https://instagram.com/trwhyudii_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHc9hmjFhQfyG3U8Nt0WKmw%3D%3D" target="_blank">
+  <a href="www.linkedin.com/in/tri-wahyudi-834a92257" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="triwahyudi5321@gmail.com" target="_blank">
