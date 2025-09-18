@@ -57,7 +57,7 @@ Hi! I'm **Tri Wahyudi** — a dedicated and detail-oriented Web Developer who en
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:triwahyudi5321@gmail.com" target="_blank">
+  <a href="mailto: triwhyudi31@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Email" />
   </a>
   &nbsp;
