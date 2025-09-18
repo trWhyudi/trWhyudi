@@ -44,9 +44,6 @@ Hi! I'm **Tri Wahyudi** — a dedicated and detail-oriented Web Developer who en
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trWhyudi&layout=compact&theme=radical" height="160" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trWhyudi&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
