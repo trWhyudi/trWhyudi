@@ -58,10 +58,6 @@ Hi! I'm **Tri Wahyudi** — a dedicated and detail-oriented Web Developer who en
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/trwhyudii_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/tri-wahyudi-834a92257" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
