@@ -14,10 +14,6 @@
 
 Hi! I'm **Tri Wahyudi** — a dedicated and detail-oriented Web Developer who enjoys crafting intuitive, scalable web applications and constantly exploring modern technologies.
 
-- 🔭 Currently working on fullstack job portal projects
-- 🌱 Learning: TypeScript, Next.js, DevOps basics
-- 🤝 Open to collaboration on interesting open-source or freelance projects
-
 ---
 
 ## 🛠️ Tech Stack
