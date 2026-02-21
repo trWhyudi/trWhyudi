@@ -1,55 +1,72 @@
-<!-- Header Image -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%93%8A+Data+Enthusiast;%E2%9A%A1+Building+Scalable+Digital+Experiences" />
+
+<br/>
+
 <p align="center">
-  <img src="img/github-header.png" alt="Tri Wahyudi Header" />
+  <img src="https://img.shields.io/badge/🔥_STATUS-COMPILING_DREAMS-3BC6CC?style=for-the-badge&logo=codefactor&logoColor=00F5FF&labelColor=1A1A2E" />
+  <img src="https://img.shields.io/badge/🎯_FOCUS-WEB_&_DATA_ENTHUSIAST-FF006E?style=for-the-badge&logo=starship&logoColor=FF006E&labelColor=1A1A2E" />
+  <img src="https://img.shields.io/badge/💡_IDEAS_GENERATING-8338EC?style=for-the-badge&logo=lightbulb&logoColor=8338EC&labelColor=1A1A2E" />
 </p>
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Hello+%F0%9F%91%8B+I'm+Tri+Wahyudi;Tech+Enthusiast+%7C+Web+Developer++;Open+to+Collaborate+%F0%9F%92%AC" alt="Typing SVG" />
-</p>
+</div>
+
+<br/>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="left">
+  <h1>
+    Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  </h1>
+</div>
 
-Hi! I'm **Tri Wahyudi** — a dedicated and detail-oriented Web Developer who enjoys crafting intuitive, scalable web applications and constantly exploring modern technologies.
+<table border="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <blockquote>
+        <b>Core Focus:</b> Designing and building scalable, high-performance web applications powered by data-driven decision making.
+      </blockquote>
+      <p>
+        I’m a <b>Web Developer</b> building full-stack apps with React, Node.js, and databases. Lately, I’ve been diving into <b>Data Engineering</b>, learning how to create data pipelines and work with data-driven systems.  
+      </p>
+      <p>
+        I enjoy combining web development with data skills to make <b>smart and scalable applications</b>.
+      </p>
+      <br/>
+      <h2>🛠️ Tech Stack</h2>
+      <img src="https://skillicons.dev/icons?i=ts,js,py,php,react,tailwind,nodejs,express,laravel,postgres,mysql,mongodb,git,postman&perline=8" />
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 📫 Connect With Me
+
+<div align="center">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="4" width="100%" alt="divider"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:triwhyudi31@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Email" />
+  <a href="https://www.linkedin.com/in/tri-wahyudi31/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tri-wahyudi-834a92257" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
+  <a href="mailto:triwhyudi31@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D1462F?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://triwahyudi-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
----
-
-> _"Code is poetry written in logic, design is emotion expressed in pixels."_
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=trWhyudi&label=PROFILE_VIEWS&color=4CC9FE&style=flat-square" />
+  <br/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=60&section=footer" width="100%"/>
+</div>
