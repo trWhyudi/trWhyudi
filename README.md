@@ -16,33 +16,24 @@
 
 ---
 
-<div align="left">
-  <h1>
-    Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  </h1>
-</div>
+## Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<table border="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <blockquote>
-        <b>Core Focus:</b> Designing and building scalable, high-performance web applications powered by data-driven decision making.
-      </blockquote>
-      <p>
-        I’m a <b>Web Developer</b> building full-stack apps with React, Node.js, and databases. Lately, I’ve been diving into <b>Data Engineering</b>, learning how to create data pipelines and work with data-driven systems.  
-      </p>
-      <p>
-        I enjoy combining web development with data skills to make <b>smart and scalable applications</b>.
-      </p>
-      <br/>
-      <h2>🛠️ Tech Stack</h2>
-      <img src="https://skillicons.dev/icons?i=ts,js,py,php,react,tailwind,nodejs,express,laravel,postgres,mysql,mongodb,git,postman&perline=8" />
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
-    </td>
-  </tr>
-</table>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bm94bm94bm94bm94bm94bm94bm94bm94bm94bm94JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="400" style="max-width: 30vw; min-width: 0px;" />
+
+<blockquote>
+  <b>Core Focus:</b> Designing and building scalable, high-performance web applications powered by data-driven decision making.
+</blockquote>
+
+I’m a **Web Developer** building full-stack applications with React, Node.js, and databases. Recently, I’ve been learning and exploring data, including data analysis, visualization, and data-driven workflows.
+
+I enjoy combining web development and data skills to create **smart, scalable, and impactful applications**.
+
+<br/>
+
+### 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,react,tailwind,nodejs,express,laravel,postgres,mysql,mongodb,git,postman&perline=8" />
+
+<br clear="right"/>
 
 ---
 
